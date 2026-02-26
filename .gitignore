@@ -1,0 +1,56 @@
+node_modules/ 
+/backend/logs/
+/backend/patients_db.json
+/backend/metrics_data.json
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+.env.local
+.env.*.local
+# Flask
+instance/
+.webassets-cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (исключаем большие данные из репозитория)
+/data/*.json
+!/data/README.md
+
+# Models
+/models/*
+!/models/README.md
+
+# Logs
+*.log
+logs/
+metrics_data.json
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+dist-ssr/
+*.local
+
+# Environment
+.env
+.env.production
