@@ -59,7 +59,7 @@ API ключ DeepSeek (https://platform.deepseek.com/api_keys)
 Инструкция по установке
 
 1.  Клонируйте репозиторий:
-git clone https://github.com/YOUR_USERNAME/oncocheck-ai.git
+git clone https://github.com/YOUR_USERNAME/qwerty111.git
 cd oncocheck-ai 
 
 2.  Настройка бэкенда:
@@ -95,6 +95,7 @@ npm run dev
     Приложение будет доступно по адресу, указанному в терминале (обычно http://localhost:5173).
 
 3.  Откройте приложение: Перейдите по адресу фронтенда в браузере.
+
 
 
 
