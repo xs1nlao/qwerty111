@@ -25,11 +25,7 @@ instance/
 *.swp
 *.swo
 
-# OS
-.DS_Store
-Thumbs.db
 
-# Data files (исключаем большие данные из репозитория)
 /data/*.json
 !/data/README.md
 
