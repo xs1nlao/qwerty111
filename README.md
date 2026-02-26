@@ -67,7 +67,7 @@ git clone https://github.com/YOUR_USERNAME/qwerty111.git
 python -m venv venv
 .\venv\Scripts\activate
         
-   Установите зависимости:
+   Установите зависимости (cd backend):
 pip install -r requirements.txt
         
     Создайте файл .env в корне бэкенда и добавьте ваш API-ключ:
@@ -94,6 +94,7 @@ npm run dev
     Приложение будет доступно по адресу, указанному в терминале (обычно http://localhost:5173).
 
 3.  Откройте приложение: Перейдите по адресу фронтенда в браузере.
+
 
 
 
